@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Romka Smagin
+- 👋 Hi, I’m Romka Smahin
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
